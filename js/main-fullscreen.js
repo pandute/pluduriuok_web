@@ -161,5 +161,5 @@ $(document).ready(function() {
     /* 7. Newsletter ....................... */
     /* ------------------------------------- */
 
-    $("#notifyMe").notifyMe();
+    // $("#notifyMe").notifyMe();
 });
